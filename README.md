@@ -55,6 +55,3 @@
   <li>Submit feedback via the <strong>Testimonials</strong> section.</li>
   <li>Contact support using the <strong>Contact Us</strong> form for any queries.</li>
 </ul>
-
-<h2>License</h2>
-<p>[Specify License here]</p>
