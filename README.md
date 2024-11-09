@@ -24,8 +24,8 @@
 <h2>Tech Stack</h2>
 <ul>
   <li><strong>Backend:</strong> PHP</li>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript (if applicable)</li>
-  <li><strong>Database:</strong> MySQL (or specify if different)</li>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Database:</strong> MySQL</li>
 </ul>
 
 <h2>Setup Instructions</h2>
@@ -35,7 +35,7 @@
   </li>
   <li><strong>Configure the database:</strong>
     <ul>
-      <li>Create a MySQL database and import the provided <code>.sql</code> file (if any).</li>
+      <li>Create a MySQL database and import the provided <code>.sql</code> file.</li>
       <li>Update the database configuration in the PHP files.</li>
     </ul>
   </li>
